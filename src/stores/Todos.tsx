@@ -1,3 +1,4 @@
+/* eslint-disable react-refresh/only-export-components */
 import { ReactNode, createContext, useContext, useState } from "react";
 
 export type TodosProviderProps = {
